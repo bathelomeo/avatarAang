@@ -2,14 +2,15 @@ body{
     background-color: yellowgreen;
 }
 .avatar{
-    background-color: yellow;
+    background-color: red;
 }
 .avatarsbeforhim{
-    background-color: chartreuse;
-}
-.allfourbending{
-    background-color: crimson;
-}
-.avatarafterhim{
     background-color: darkorange;
 }
+.allfourbending{
+    background-color: gold;
+}
+.avatarafterhim{
+    background-color: chartreuse;
+}
+.

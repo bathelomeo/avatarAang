@@ -2,14 +2,14 @@ body{
     background-color: blue;
 }
 .water{
-    background-color: blueviolet;
+    background-color: red;
 }
 .earth{
-    background-color: chartreuse;
+    background-color: darkorange;
 }
 .fire{
-    background-color: crimson;
+    background-color: gold;
 }
 .air{
-    background-color: darkorange;
+    background-color: chartreuse;
 }
