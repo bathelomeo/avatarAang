@@ -1,15 +1,19 @@
 body{
-    background-color: yellowgreen;
+background-image:linear-gradient(to bottom, #ff0000, #ff3e00, #ff5a00, #ff7000, #ff8300, #ff9300, #ffa200, #ffb100, #ffc100, #ffd200, #ffe300, #fff400);
+}
+.container{
+background-image:linear-gradient(to bottom, #2cff00, #00f0a7, #00d7ff, #00b5ff, #0089ff, #006bfb, #0048f0, #3c07dd, #4800c5, #4d00ad, #4d0097, #4b0082);
+font-size: 17px;
+font-family:'Indie Flower', cursive;
+font-family: 'Varela Round', sans-serif;
+
 }
 .avatar{
-    background-color: red;
 }
-.avatarsbeforhim{
-    background-color: darkorange;
+.avatarsbeforehim{   
 }
-.allfourbending{
-    background-color: gold;
+.allfourbending{    
 }
 .avatarafterhim{
-    background-color: chartreuse;
+
 }
