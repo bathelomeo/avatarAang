@@ -1,15 +1,24 @@
 body{
-    background-color: blue;
+    background-image: linear-gradient(to bottom, #fff400, #ffe300, #ffd200, #ffc100, #ffb100, #ffa200, #ff9300, #ff8300, #ff7000, #ff5a00, #ff3e00, #ff0000);
+}
+.container{
+background-image: linear-gradient(to bottom, #4b0082, #4d0097, #4d00ad, #4800c5, #3c07dd, #0048f0, #006bfb, #0089ff, #00b5ff, #00d7ff, #00f0a7, #2cff00);
+font-family: 'Overpass', sans-serif;;
+font-size: 17px;
 }
 .kuruk{
-    background-color: cornflowerblue;
+    background-color: #02386E;
+    padding: 12px;
 }
 .kioshi{
-    background-color: green;
+    background-color: #26D701;
+    padding: 4px;
 }
 .roku{
-    background-color: crimson;
+    background-color: #DC1C13;
+    padding: 1px;
 }
 .yangcheng{
-    background-color: cyan;
+    background-color:#01FFFF;
+    padding: 1px;
 }
